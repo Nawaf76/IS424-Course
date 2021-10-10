@@ -9,9 +9,7 @@ table{
 
 td{
     display: inline-block;
-    margin: 0.7% 0% 0% 1.5%;
-    vertical-align: middle;
-    text-align: center;
+    margin: 0.7% 0% 0% 1.7%;
 }
 
 a{  text-decoration: none;}
@@ -32,8 +30,10 @@ a{  text-decoration: none;}
   display: none;
   position: absolute;
   background-color: #0e4572;
-  max-width: 120%;
-  padding-top: 30%;
+  min-width: 100%;
+  padding-top: 10%;
+  z-index: 1;
+  margin-right: 20px;
 }
 
 .dropdown-content a {
