@@ -23,7 +23,6 @@ body{
 .dropdown .dropbtn {
   font-size: 16px;  
   border: none;
-  outline: none;
   color: white;
   padding: 14px 16px;
   background-color: inherit;
@@ -40,6 +39,7 @@ body{
   position: absolute;
   background-color: #0e4572;
   min-width: 160px;
+  margin-top: 45px;
 }
 
 .dropdown-content a {
