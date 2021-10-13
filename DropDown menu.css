@@ -3,7 +3,8 @@ body{
 }
 header{
   margin: auto;
-  width: 40%;
+  width: 50%;
+  height: 10%;
   font-size: 250%;
   font-family: 'Open Sans Condensed', sans-serif;
 }
