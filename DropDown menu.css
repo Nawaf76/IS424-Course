@@ -2,11 +2,10 @@ body{
   margin: 0;
 }
 header{
-  margin: auto;
   width: 30%;
-  height: 10%;
-  font-size: 200%;
+  font-size: 300%;
   font-family: 'Open Sans Condensed', sans-serif;
+  display: block;
 }
 .navbar {
   overflow: hidden;
