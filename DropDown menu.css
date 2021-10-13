@@ -1,6 +1,12 @@
 body{
   margin: 0;
 }
+header{
+  margin: auto;
+  width: 40%;
+  font-size: 300%;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 .navbar {
   overflow: hidden;
 }
