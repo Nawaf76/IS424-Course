@@ -1,6 +1,10 @@
 body{
   margin: 0;
 }
+li{
+  font-size: 19px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 header{
   width: 30%;
   font-size: 300%;
@@ -10,7 +14,9 @@ header{
 .navbar {
   overflow: hidden;
 }
-
+a{
+  text-decoration: none;
+}
 .navbar a {
   float: left;
   font-size: 16px;
@@ -73,4 +79,7 @@ iframe-container{
   height: 100%;
   padding: 10px 0px 10px 10px;
   margin: auto;
+}
+iframe{
+  border: none;
 }
